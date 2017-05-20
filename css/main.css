@@ -11,8 +11,9 @@ textarea {
 	border-radius: 10px;
 	border: 0px;
 	margin-bottom: 10px;
-	overflow: scroll;
-	overflow-x: hidden;
+}
+label {
+    margin: 0 0 0 5px;
 }
 .navbar-default {
 	background-color: #1DA1F2;
@@ -44,8 +45,7 @@ textarea {
 	color: #4E4D53;
 }
 #contenedor span{
-	margin-left: 10px;
-	margin-bottom: 20px;
+	margin: 5px 20px 10px 0;
 }
 #contenedor div {
 	padding-top: 10px;
